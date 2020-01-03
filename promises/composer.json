@@ -1,0 +1,6 @@
+{
+    "require": {
+        "react/promise": "^2.7",
+        "clue/buzz-react": "^2.6"
+    }
+}

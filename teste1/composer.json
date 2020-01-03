@@ -1,0 +1,9 @@
+{
+    "name": "teste1",
+    "description": "testando ReactPHP",
+    "require": {
+        "react/event-loop": "^1.1",
+        "react/filesystem": "^0.1.2",
+        "clue/buzz-react": "^2.6"
+    }
+}
